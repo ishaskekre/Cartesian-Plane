@@ -1,2 +1,2 @@
-# Ishas_Compsci_2017-2019
+# Cartesian Plane
 My repository
